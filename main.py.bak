@@ -9,8 +9,8 @@ import logging
 import time,requests
 from apscheduler.schedulers.background import BackgroundScheduler
 schedulers = BackgroundScheduler()
-TOKEN='token'
-r=redis.from_url('token')
+TOKEN='5729870657:AAGpDBrS5mHVyAyMpzp_zKGogVyRQRKd4W0'
+r=redis.from_url('redis://:p6276f73643cd377844153100d0c88f2a3b5d6b23c8b20ae56c48c8cbe6638c3b@ec2-3-217-237-190.compute-1.amazonaws.com:16889')
 db_keys=r.keys(pattern='*')
 
 
