@@ -1,6 +1,11 @@
 # Bot telegram notificados de pagos | python
 principal de este ChatBot es notificar por mensaje a alumnos sobre los  pagos correspondientes, ya que la mayoría no realiza el pago ya se por atraso u  otra situación.
 
+### Organigrama
+En esta parte se diseñó haciendo a partir de un organigrama donde va a ser la interacción del bot con el alumno que tendrá. 
+![image](https://github.com/miguelapol/bot_python_uam/assets/33709574/f47217d9-1821-435e-b66c-1c8a9785dc3a)
+
+
 ### Motivación del proyecto: La motivación para el desarrollo de este proyecto fue que 
 me llamo la atención los chats de bots, ya que hoy en día se usan particularmente
 para que ayude al cliente, y la doctora me propuso que se necesitaba un chatbot 
